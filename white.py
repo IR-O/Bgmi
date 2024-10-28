@@ -8,9 +8,9 @@ from telebot.types import ReplyKeyboardMarkup, KeyboardButton
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO)
 
 # Bot Token and Other Configurations
-TOKEN = '7124809378:AAGjWthNBdNHy5r7Mw1gwWvGBldmOTCnip0'
-CHANNEL_ID = -1002234223582
-ADMIN_IDS = [6321758394]
+TOKEN = '7092739637:AAHuN028oGarnW8sg-gd18pcvbG8N6IsTQo'
+CHANNEL_ID = -1001698464500
+ADMIN_IDS = [6045293810]
 USER_DATA_FILE = 'users.json'
 
 bot = telebot.TeleBot(TOKEN)
